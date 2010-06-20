@@ -1,0 +1,10 @@
+mgithub
+This project is an attempt to provide a native style
+application for GitHub on iOS and Android based
+devices by making use of the new Sencha Touch library.
+Data is pulled from GitHub using the public GitHub
+API.
+
+This project is not endorsed or supported by GitHub and
+they will be unable to provide any assistance with
+issues that arise from using this software.
